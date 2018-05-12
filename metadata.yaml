@@ -1,0 +1,29 @@
+_repo: The-Origin-of-Finger-Printing_34859
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herschel, William James
+    alias: Herschel, William J.
+    birthdate: 1833
+    deathdate: 1917
+    gutenberg_agent_id: '37279'
+    url: http://www.gutenberg.org/2009/agents/37279
+    wikipedia: http://en.wikipedia.org/wiki/William_James_Herschel
+description: ''
+gutenberg_issued: '2011-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34859'
+  lccn: '17021614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fingerprints'
+- !lcc 'HV'
+title: The Origin of Finger-Printing
+url: http://www.gutenberg.org/ebooks/34859
